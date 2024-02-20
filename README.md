@@ -1,7 +1,7 @@
 # credit-risk-classification
 Module 20 Challenge
 
-# Module 20 Report Template
+# Module 20 Report
 
 
 ## Prepare the Data
