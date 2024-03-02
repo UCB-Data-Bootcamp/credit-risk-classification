@@ -31,24 +31,3 @@ Module 20 Challenge
 ## Summary
 Oversampling is a great tool in case we have a very limited dataset for a particular target feature. In this case even though we had a failrly large number of high risk loand ~2500, the algorithm was still providing us with a large number or false positives. That can be risky for an organizsation that provides loans. By increasing the number of high risk samples we were able to improve our model and provide a more accurate prediction of high risk loans
 
-
-
-## Prepare the Data
-
-* Loading data
-
-## Logistic Rergression 
-
-*Create test and train datasets
-*Create model using the train set
-*Validate the model with the test set
-*Evaluate accuracy of model with score, confusion matrix and classification reports
-
-## LR with overampled data
-
-*Create new oversampled data by fitting the original training data to the random_oversampler model
-*Repeat logistic regression analysis and evaluate the performance
-
-## Summary
-
-*Oversampling the training data improved our logistic regression performance
